@@ -3537,18 +3537,18 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 				<key>ID</key>
 				<integer>381</integer>
 				<key>Position</key>
-				<real>0.53205978870391846</real>
+				<real>0.69244146347045898</real>
 			</dict>
 			<key>ID</key>
 			<integer>383</integer>
 			<key>OrthogonalBarAutomatic</key>
 			<false/>
 			<key>OrthogonalBarPosition</key>
-			<real>8</real>
+			<real>4</real>
 			<key>Points</key>
 			<array>
-				<string>{597.502, 53.583}</string>
-				<string>{555, 176.407}</string>
+				<string>{604.55, 53.6075}</string>
+				<string>{618, 176.407}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -3633,7 +3633,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2010-02-22 00:48:24 -0700</string>
+	<string>2010-02-22 01:10:37 -0700</string>
 	<key>Modifier</key>
 	<string>Matt Raible</string>
 	<key>NotesVisible</key>
