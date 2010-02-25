@@ -56,7 +56,7 @@
 			<array>
 				<dict>
 					<key>Bounds</key>
-					<string>{{187.048, 334.819}, {32, 14}}</string>
+					<string>{{187.048, 325.819}, {32, 14}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -104,7 +104,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{181.448, 287.373}, {43.2, 43.2}}</string>
+					<string>{{181.448, 278.373}, {43.2, 43.2}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -5161,7 +5161,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 			<integer>445</integer>
 			<key>Points</key>
 			<array>
-				<string>{203.038, 287.373}</string>
+				<string>{203.037, 278.373}</string>
 				<string>{203, 203.363}</string>
 			</array>
 			<key>Style</key>
@@ -5255,7 +5255,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2010-02-24 21:26:29 -0700</string>
+	<string>2010-02-24 21:31:37 -0700</string>
 	<key>Modifier</key>
 	<string>Matt Raible</string>
 	<key>NotesVisible</key>
