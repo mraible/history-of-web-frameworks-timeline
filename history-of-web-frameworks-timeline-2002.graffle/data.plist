@@ -40,7 +40,7 @@
 	<key>ColumnSpacing</key>
 	<real>36</real>
 	<key>CreationDate</key>
-	<string>2010-02-21 22:57:54 -0700</string>
+	<string>2010-02-21 21:57:54 -0800</string>
 	<key>Creator</key>
 	<string>Matt Raible</string>
 	<key>DisplayScale</key>
@@ -142,12 +142,12 @@
 			<key>Head</key>
 			<dict>
 				<key>ID</key>
-				<integer>529</integer>
+				<integer>391</integer>
 				<key>Position</key>
 				<real>0.23484516143798828</real>
 			</dict>
 			<key>ID</key>
-			<integer>533</integer>
+			<integer>438</integer>
 			<key>Points</key>
 			<array>
 				<string>{132.3, 333.581}</string>
@@ -331,7 +331,7 @@
 			<key>Class</key>
 			<string>LineGraphic</string>
 			<key>ID</key>
-			<integer>529</integer>
+			<integer>391</integer>
 			<key>Points</key>
 			<array>
 				<string>{39.75, 203.363}</string>
@@ -453,7 +453,7 @@
 			<key>Class</key>
 			<string>LineGraphic</string>
 			<key>ID</key>
-			<integer>508</integer>
+			<integer>381</integer>
 			<key>Points</key>
 			<array>
 				<string>{346, 203.407}</string>
@@ -568,12 +568,12 @@
 			<key>Head</key>
 			<dict>
 				<key>ID</key>
-				<integer>534</integer>
+				<integer>3</integer>
 				<key>Position</key>
 				<real>0.25257745385169983</real>
 			</dict>
 			<key>ID</key>
-			<integer>536</integer>
+			<integer>452</integer>
 			<key>OrthogonalBarAutomatic</key>
 			<true/>
 			<key>OrthogonalBarPosition</key>
@@ -607,7 +607,7 @@
 			<key>Tail</key>
 			<dict>
 				<key>ID</key>
-				<integer>354</integer>
+				<integer>451</integer>
 				<key>Info</key>
 				<integer>5</integer>
 			</dict>
@@ -618,7 +618,7 @@
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
-			<integer>354</integer>
+			<integer>451</integer>
 			<key>Magnets</key>
 			<array>
 				<string>{1, 1}</string>
@@ -766,12 +766,12 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 			<key>Head</key>
 			<dict>
 				<key>ID</key>
-				<integer>534</integer>
+				<integer>3</integer>
 				<key>Position</key>
 				<real>0.23475724458694458</real>
 			</dict>
 			<key>ID</key>
-			<integer>535</integer>
+			<integer>319</integer>
 			<key>Points</key>
 			<array>
 				<string>{194.876, 233.5}</string>
@@ -808,7 +808,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 			<key>Class</key>
 			<string>LineGraphic</string>
 			<key>ID</key>
-			<integer>449</integer>
+			<integer>317</integer>
 			<key>Points</key>
 			<array>
 				<string>{891.714, 203.459}</string>
@@ -831,7 +831,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 			<key>Class</key>
 			<string>LineGraphic</string>
 			<key>ID</key>
-			<integer>451</integer>
+			<integer>316</integer>
 			<key>Points</key>
 			<array>
 				<string>{826.245, 203.459}</string>
@@ -854,7 +854,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 			<key>Class</key>
 			<string>LineGraphic</string>
 			<key>ID</key>
-			<integer>456</integer>
+			<integer>315</integer>
 			<key>Points</key>
 			<array>
 				<string>{760.777, 203.459}</string>
@@ -877,7 +877,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 			<key>Class</key>
 			<string>LineGraphic</string>
 			<key>ID</key>
-			<integer>460</integer>
+			<integer>314</integer>
 			<key>Points</key>
 			<array>
 				<string>{695.308, 203.459}</string>
@@ -900,7 +900,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 			<key>Class</key>
 			<string>LineGraphic</string>
 			<key>ID</key>
-			<integer>473</integer>
+			<integer>313</integer>
 			<key>Points</key>
 			<array>
 				<string>{629.839, 203.459}</string>
@@ -923,7 +923,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 			<key>Class</key>
 			<string>LineGraphic</string>
 			<key>ID</key>
-			<integer>487</integer>
+			<integer>312</integer>
 			<key>Points</key>
 			<array>
 				<string>{564.37, 203.459}</string>
@@ -946,7 +946,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 			<key>Class</key>
 			<string>LineGraphic</string>
 			<key>ID</key>
-			<integer>480</integer>
+			<integer>311</integer>
 			<key>Points</key>
 			<array>
 				<string>{498.37, 203.363}</string>
@@ -978,7 +978,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 				<real>10</real>
 			</dict>
 			<key>ID</key>
-			<integer>476</integer>
+			<integer>310</integer>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1029,7 +1029,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 				<real>10</real>
 			</dict>
 			<key>ID</key>
-			<integer>475</integer>
+			<integer>309</integer>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1080,7 +1080,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 				<real>10</real>
 			</dict>
 			<key>ID</key>
-			<integer>474</integer>
+			<integer>308</integer>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1131,7 +1131,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 				<real>10</real>
 			</dict>
 			<key>ID</key>
-			<integer>454</integer>
+			<integer>307</integer>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1182,7 +1182,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 				<real>10</real>
 			</dict>
 			<key>ID</key>
-			<integer>452</integer>
+			<integer>306</integer>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1233,7 +1233,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 				<real>10</real>
 			</dict>
 			<key>ID</key>
-			<integer>450</integer>
+			<integer>305</integer>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1325,7 +1325,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 			<key>Class</key>
 			<string>LineGraphic</string>
 			<key>ID</key>
-			<integer>478</integer>
+			<integer>16</integer>
 			<key>Points</key>
 			<array>
 				<string>{495.597, 203.363}</string>
@@ -1348,7 +1348,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 			<key>Class</key>
 			<string>LineGraphic</string>
 			<key>ID</key>
-			<integer>502</integer>
+			<integer>14</integer>
 			<key>Points</key>
 			<array>
 				<string>{430.128, 203.363}</string>
@@ -1371,7 +1371,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 			<key>Class</key>
 			<string>LineGraphic</string>
 			<key>ID</key>
-			<integer>497</integer>
+			<integer>12</integer>
 			<key>Points</key>
 			<array>
 				<string>{364.659, 203.363}</string>
@@ -1394,7 +1394,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 			<key>Class</key>
 			<string>LineGraphic</string>
 			<key>ID</key>
-			<integer>528</integer>
+			<integer>10</integer>
 			<key>Points</key>
 			<array>
 				<string>{299.191, 203.363}</string>
@@ -1486,7 +1486,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 			<key>Class</key>
 			<string>LineGraphic</string>
 			<key>ID</key>
-			<integer>534</integer>
+			<integer>3</integer>
 			<key>Points</key>
 			<array>
 				<string>{102.75, 203.363}</string>
@@ -1671,7 +1671,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 				<real>10</real>
 			</dict>
 			<key>ID</key>
-			<integer>538</integer>
+			<integer>11</integer>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1722,7 +1722,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 				<real>10</real>
 			</dict>
 			<key>ID</key>
-			<integer>522</integer>
+			<integer>13</integer>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1773,7 +1773,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 				<real>10</real>
 			</dict>
 			<key>ID</key>
-			<integer>496</integer>
+			<integer>15</integer>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1824,7 +1824,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 				<real>10</real>
 			</dict>
 			<key>ID</key>
-			<integer>484</integer>
+			<integer>17</integer>
 			<key>Shape</key>
 			<string>Rectangle</string>
 			<key>Style</key>
@@ -1905,12 +1905,12 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 			<key>Head</key>
 			<dict>
 				<key>ID</key>
-				<integer>529</integer>
+				<integer>391</integer>
 				<key>Position</key>
 				<real>0.41559320688247681</real>
 			</dict>
 			<key>ID</key>
-			<integer>530</integer>
+			<integer>445</integer>
 			<key>Points</key>
 			<array>
 				<string>{203.037, 278.373}</string>
@@ -1999,7 +1999,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2010-02-24 23:50:59 -0700</string>
+	<string>2010-03-16 21:31:08 -0700</string>
 	<key>Modifier</key>
 	<string>Matt Raible</string>
 	<key>NotesVisible</key>
@@ -2089,7 +2089,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{0, -61}, {863, 676}}</string>
+		<string>{{9, -61}, {863, 676}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>

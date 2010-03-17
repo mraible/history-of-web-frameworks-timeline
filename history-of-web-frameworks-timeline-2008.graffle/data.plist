@@ -40,7 +40,7 @@
 	<key>ColumnSpacing</key>
 	<real>36</real>
 	<key>CreationDate</key>
-	<string>2010-02-21 22:57:54 -0700</string>
+	<string>2010-02-21 21:57:54 -0800</string>
 	<key>Creator</key>
 	<string>Matt Raible</string>
 	<key>DisplayScale</key>
@@ -4270,7 +4270,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2010-02-24 23:57:09 -0700</string>
+	<string>2010-03-16 21:29:17 -0700</string>
 	<key>Modifier</key>
 	<string>Matt Raible</string>
 	<key>NotesVisible</key>
@@ -4360,7 +4360,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{0, -61}, {863, 676}}</string>
+		<string>{{10, -61}, {863, 676}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>
