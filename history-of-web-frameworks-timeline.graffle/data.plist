@@ -143,6 +143,69 @@
 	<array>
 		<dict>
 			<key>Bounds</key>
+			<string>{{1091.1285, 0}, {96.871499999999997, 25.2788}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>581</integer>
+			<key>Magnets</key>
+			<array>
+				<string>{1, 1}</string>
+				<string>{1, -1}</string>
+				<string>{-1, -1}</string>
+				<string>{-1, 1}</string>
+				<string>{0, 1}</string>
+				<string>{0, -1}</string>
+				<string>{1, 0}</string>
+				<string>{-1, 0}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>fill</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<real>1</real>
+						<key>g</key>
+						<real>0.50196099999999999</real>
+						<key>r</key>
+						<real>0.0</real>
+					</dict>
+					<key>FillType</key>
+					<integer>2</integer>
+					<key>GradientAngle</key>
+					<real>90</real>
+					<key>GradientColor</key>
+					<dict>
+						<key>b</key>
+						<string>1</string>
+						<key>g</key>
+						<string>1</string>
+						<key>r</key>
+						<string>1</string>
+					</dict>
+				</dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+			</dict>
+			<key>Text</key>
+			<dict>
+				<key>Text</key>
+				<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
+
+\f0\fs24 \cf0 DeltaSpike 1.0}</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Bounds</key>
 			<string>{{720, 378}, {39.917808219178085, 47}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
@@ -5957,12 +6020,19 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 			<false/>
 			<key>Class</key>
 			<string>LineGraphic</string>
+			<key>Head</key>
+			<dict>
+				<key>ID</key>
+				<integer>381</integer>
+				<key>Position</key>
+				<real>0.82863853866697856</real>
+			</dict>
 			<key>ID</key>
 			<integer>480</integer>
 			<key>Points</key>
 			<array>
-				<string>{773.20365653862052, 119.48679766455015}</string>
-				<string>{772.947, 203.459}</string>
+				<string>{773.29315314469693, 119.48679848119923}</string>
+				<string>{773.5, 203.40719604492188}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -9449,14 +9519,14 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 				<key>ID</key>
 				<integer>381</integer>
 				<key>Position</key>
-				<real>0.80699974426246457</real>
+				<real>0.80445400374428644</real>
 			</dict>
 			<key>ID</key>
 			<integer>576</integer>
 			<key>Points</key>
 			<array>
-				<string>{764.37040434554376, 39.485196312057361}</string>
-				<string>{765, 203.40719604492188}</string>
+				<string>{764.28405352701066, 39.485199249302589}</string>
+				<string>{764, 203.40719604492188}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -9534,12 +9604,55 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 				<integer>577</integer>
 			</dict>
 		</dict>
+		<dict>
+			<key>AllowLabelDrop</key>
+			<false/>
+			<key>Class</key>
+			<string>LineGraphic</string>
+			<key>ID</key>
+			<integer>583</integer>
+			<key>Points</key>
+			<array>
+				<string>{1139.5662596851969, 25.778795961149115}</string>
+				<string>{1140.2772159942472, 202.65987348445987}</string>
+			</array>
+			<key>Style</key>
+			<dict>
+				<key>shadow</key>
+				<dict>
+					<key>Draws</key>
+					<string>NO</string>
+				</dict>
+				<key>stroke</key>
+				<dict>
+					<key>Color</key>
+					<dict>
+						<key>b</key>
+						<real>1</real>
+						<key>g</key>
+						<real>0.51372499999999999</real>
+						<key>r</key>
+						<real>0.16078400000000001</real>
+					</dict>
+					<key>HeadArrow</key>
+					<string>FilledArrow</string>
+					<key>Legacy</key>
+					<true/>
+					<key>TailArrow</key>
+					<string>0</string>
+				</dict>
+			</dict>
+			<key>Tail</key>
+			<dict>
+				<key>ID</key>
+				<integer>581</integer>
+				<key>Info</key>
+				<integer>5</integer>
+			</dict>
+		</dict>
 	</array>
 	<key>GridInfo</key>
-	<dict>
-		<key>SnapsToGrid</key>
-		<string>YES</string>
-	</dict>
+	<dict/>
 	<key>GuidesLocked</key>
 	<string>NO</string>
 	<key>GuidesVisible</key>
@@ -9615,7 +9728,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2016-11-17 16:53:09 +0000</string>
+	<string>2016-11-22 01:10:54 +0000</string>
 	<key>Modifier</key>
 	<string>Ian Darwin</string>
 	<key>NotesVisible</key>
@@ -9700,7 +9813,7 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 		<key>Frame</key>
 		<string>{{0, 42}, {1280, 735}}</string>
 		<key>ShowInfo</key>
-		<false/>
+		<true/>
 		<key>ShowRuler</key>
 		<true/>
 		<key>Sidebar</key>
@@ -9710,15 +9823,15 @@ Becomes part of J2EE 1.2 (JDK 1.2)}</string>
 		<key>TopSlabHeight</key>
 		<real>250</real>
 		<key>VisibleRegion</key>
-		<string>{{252, -4}, {1063, 562}}</string>
+		<string>{{780.5, 0}, {375.5, 281}}</string>
 		<key>Zoom</key>
-		<real>1</real>
+		<real>2</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
 				<string>Canvas 1</string>
-				<real>1</real>
 				<real>2</real>
+				<real>1</real>
 			</array>
 		</array>
 	</dict>
